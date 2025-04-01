@@ -87,4 +87,4 @@ This project is open for educational and demonstrative purposes. Please do not r
 
 ## 📬 Contact
 
-For any questions or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/purva-prakash-kekan/).
+For any questions or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/purva-prakash-kekan/).
