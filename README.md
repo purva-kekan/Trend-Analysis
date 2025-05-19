@@ -85,6 +85,8 @@ This project is open for educational and demonstrative purposes. Please do not r
 
 ---
 
-## 📬 Contact
+## 🎓 About Me
 
-For any questions or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/purva-prakash-kekan/).
+I'm Purva, a Data Analyst with a Master’s in Analytics from Northeastern University. I love turning complex datasets into dashboards that tell meaningful, actionable stories. I'm currently looking for full-time opportunities in data analytics or business intelligence.
+
+📫 [LinkedIn](https://www.linkedin.com/in/purva-prakash-kekan/) | [Portfolio](https://purva-kekan.github.io/portfolio/)
